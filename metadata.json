@@ -1,0 +1,8 @@
+{
+  "name": "TaskFlow",
+  "description": "A modern, SaaS-style To-Do List dashboard built with HTML5, CSS3, and Vanilla JavaScript featuring full CRUD operations and LocalStorage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
